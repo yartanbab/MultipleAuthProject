@@ -1,2 +1,2 @@
 # MultipleAuthProject
-Laravel Breeze ile Kullanıcı/Satıcı/Admin için çoklu kimlik doğrulaması.
+Laravel 11x Breeze ile Kullanıcı/Satıcı/Admin için çoklu kimlik doğrulaması.
